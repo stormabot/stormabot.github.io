@@ -1,0 +1,38 @@
+---
+---
+@import "jekyll-theme-cayman";
+
+// Переопределение цветов
+:root {
+  --primary-color: #2c3e50;
+  --secondary-color: #1a1a1a;
+  --text-color: #ecf0f1;
+  --link-color: #3498db;
+}
+
+.page-header {
+  background-color: var(--primary-color);
+  color: var(--text-color);
+}
+
+.main-content {
+  background-color: var(--secondary-color);
+  color: var(--text-color);
+
+  h1, h2, h3, h4, h5, h6 {
+    color: var(--text-color);
+  }
+
+  a {
+    color: var(--link-color);
+
+    &:hover {
+      color: lighten(var(--link-color), 15%);
+    }
+  }
+
+  pre, code {
+    background-color: darken(var(--secondary-color), 5%) !important;
+    color: #f8f8f2;
+  }
+}
