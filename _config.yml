@@ -5,6 +5,7 @@ theme: jekyll-theme-cayman
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-sass-converter
 
 seo:
   title: true
