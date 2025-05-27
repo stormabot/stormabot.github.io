@@ -1,3 +1,18 @@
-theme: jekyll-theme-minimal
-title: Bots
-description: Terms & policy 
+title: "Bots - Terms & Policies"
+description: "Privacy Policy and Terms of Service for Discord bots"
+
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+seo:
+  title: true
+  description: true
+
+author:
+  name: "byfox"
+  discord: "byfox"
+  github: "ByFox213"
+
+timezone: "Europe/Moscow"
