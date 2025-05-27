@@ -1,33 +1,63 @@
-# Privacy Policy & Terms of Service
+# **Privacy Policy & Terms of Service**  
+*Last Updated: 28.05.2025*  
 
-This document entails the privacy policy and agreement that you accept when adding any of byfox's bots to a server, or as a member of such a server. This document does not supersede the [Developer Terms of Service](https://discordapp.com/developers/docs/legal).
+This document outlines the **Privacy Policy** and **Terms of Service** (ToS) governing the use of **byfox's Discord bots**, including **StormaBOT** (ID: 1094639423708217396). By adding or using any of these bots, you agree to comply with these terms. This policy supplements, but does not override, Discord’s [Developer Terms of Service](https://discord.com/developers/docs/legal).  
 
+## **1. Definitions**  
+- **Bot(s)**: Refers to any Discord bot(s) operated by byfox (e.g., StormaBOT).  
+- **Server Manager**: Any user with permissions to add, configure, or manage the bot in a Discord server (e.g., admins/moderators).  
+- **Server Member**: Any user participating in a server where the bot is active.  
+- **Guild/Server ID**: The unique identifier for a Discord server.  
+- **User Data**: Information collected automatically or provided by users.  
 
-### Bots, Services, and Servers
-The following is a list of bots to which this privacy policy applies.
-* **StormaBOT**#6181 (1094639423708217396)
+---  
 
+## **2. Data Collection & Usage**  
 
-### Terminology
-* **Server Manager** - Anyone who has the ability to add a bot to a server or configure the bot for the server. This is usually an administrator or moderator
-* **Server Member** - Anyone who is a member of server to which one of the bots has been added
+### **A. Data Collected by Command**  
+When users interact with specific bot commands (e.g., `/settings`), the following data may be stored:  
+- **Guild ID** (to identify the server).  
+- **Channel ID** (for bot functionality).  
 
+### **B. Automatically Collected Data**  
+For operational purposes, the bot may collect:  
+- **Guild IDs** (to maintain bot services).  
+- **Temporary cached data** (e.g., permissions, roles – deleted upon bot restart).  
 
-### Data Collected By Command
-The following items will be collected and stored when intentionally provided by a user (by means of a the "/settings" command).
-* Guild ID Number
-* Channel ID Number
+### **C. What We Do NOT Collect**  
+- Personal messages (DMs) outside of bot commands.  
+- Sensitive user data (e.g., passwords, payment info).  
+- Unrelated server content (e.g., non-bot-related chats).  
 
+---  
 
-### Data Collected Automatically
-This data may be collected automatically by some bots. For any bots that collect this data, it is necessary for features of said bot.
-* Automatic collection of GUILD IDs when logging into the server to maintain the structure
-* Any data needed for standard operation of Discord bots, such as server permissions (this data is stored in cache only while the bot is running)
+## **3. Data Storage & Security**  
+- **Retention**: Guild/Channel IDs are stored only as long as necessary for bot functionality.  
+- **Deletion**: All data is **automatically deleted** when the bot is removed from a server. No manual action is required.  
+- **Security**: We implement industry-standard measures to protect data but cannot guarantee absolute security.  
 
+---  
 
-### Feedback
-Feedback on any and all provided bots and services is appreciated. When you submit comments, suggestions, bug reports, and any other forms of feedback, you forego any rights to the content, title, or intent of the provided feedback. Additionally, the feedback may be utilized in any way.
+## **4. Feedback & Contributions**  
+By submitting feedback (bugs, suggestions, etc.), you:  
+- Grant us unrestricted rights to use, modify, or implement it.  
+- Waive ownership claims to the feedback provided.  
 
+---  
 
-### Agreement
-By adding any of byfox bots to your server or using these bots or services in any way, you are consenting to the policies outlined in this document. In addition, you (the server manager) are agreeing to inform your members of the [Developer Terms of Service](https://discordapp.com/developers/docs/legal) and the contents of this document. If you, the server manager, do not agree to this document, you may remove the bot(s) from the server. If you, the server member, do not agree to this document, you may leave the server that contains the bot(s).
+## **5. Limitation of Liability**  
+- The bot is provided **"as is"** – we are not liable for service interruptions or misuse.  
+- We do not endorse or monitor server content where the bot is active.  
+
+---  
+
+## **6. Changes to This Policy**  
+We reserve the right to update this policy. Continued bot use constitutes acceptance of changes.  
+
+---  
+
+## **7. Contact & Dispute Resolution**  
+For questions or data requests, contact:  
+- **Discord**: `byfox`
+
+By using the bot, you acknowledge you have read and agreed to these terms.  
